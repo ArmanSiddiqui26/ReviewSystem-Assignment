@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Card from "./Card";
 
 const ReviewSystem = () => {
   const [username, setUsername] = useState("");
